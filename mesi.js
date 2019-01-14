@@ -6,4 +6,4 @@ function cheer(x) {
  console.log(x);
 }
 
-cheer('cheer for ' + x);   
+cheer('cheer for ' + x);  
