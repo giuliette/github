@@ -4,4 +4,4 @@ function cheer(x) {
  console.log(x);
 }
 
-cheer('this is the TEAM');   
+cheer('Javascript');   
