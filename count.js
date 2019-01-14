@@ -5,4 +5,4 @@ const count = (age) => {
 
 }
 
-count(9);
+count(11);
