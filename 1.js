@@ -1,9 +1,9 @@
 'use strict'
 
-let person = "kis Rooka";
+let foxy = "kis Rooka";
 
-function greet(person) {
-  console.log('hello ' + person);
+function greet(foxy) {
+  console.log('hello ' + foxy);
 }
 
-greet(person);
+greet(foxy);
