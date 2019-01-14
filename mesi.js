@@ -1,7 +1,9 @@
 'use strict'
 
+let x = 'Javascript';
+
 function cheer(x) {
  console.log(x);
 }
 
-cheer('Javascript');   
+cheer('cheer for ' + x);   
