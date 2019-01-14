@@ -1,9 +1,10 @@
 'use strict'
 
 let foxy = "kis Rooka";
+let greeting = "szioka "
 
-function greet(foxy) {
-  console.log('hello ' + foxy);
+function greet(greeting, foxy) {
+  console.log(greeting + foxy);
 }
 
-greet(foxy);
+greet(greeting, foxy);
