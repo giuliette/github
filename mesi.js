@@ -1,7 +1,7 @@
 'use strict'
 
-function cheer() {
- console.log('A TEAM');
+function cheer(x) {
+ console.log(x);
 }
 
-cheer();
+cheer('this is the TEAM');   
