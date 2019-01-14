@@ -1,7 +1,7 @@
 'use strict'
 
 const count = (age) => {
-  console.log(age);
+  console.log('counting the countless ' + age);
 
 }
 
