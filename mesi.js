@@ -3,7 +3,7 @@
 let x = 'Javascript';
 
 function cheer(x) {
- console.log(x);
+ console.log(`Greetings for the ${x}`);
 }
 
 cheer('cheer for ' + x);  
